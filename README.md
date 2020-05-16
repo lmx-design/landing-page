@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages wut wut
 
 You can use the [editor on GitHub](https://github.com/lmx-design/landing-page/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
